@@ -1,2 +1,3 @@
-![image](https://user-images.githubusercontent.com/52266113/154862974-1043fc53-2bba-43dc-b15a-370db593fae7.png)
-![image](https://user-images.githubusercontent.com/52266113/154863022-09d265a6-de2b-471d-9438-696b455a3255.png)
+![python(1)](https://user-images.githubusercontent.com/52266113/154863207-b65c3bf7-3379-48ba-9884-fb939eaaec79.png)
+![ubuntu](https://user-images.githubusercontent.com/52266113/154863324-1dcc7ffb-b2f5-4e10-a208-9b72a17b304a.png)
+![visual-studio](https://user-images.githubusercontent.com/52266113/154863352-3907ccdc-2c42-4d9f-a7ad-e9c9929cc909.png)
